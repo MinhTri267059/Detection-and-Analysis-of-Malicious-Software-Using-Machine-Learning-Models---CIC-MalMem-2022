@@ -1,0 +1,18 @@
+{
+    "Benign": 0,
+    "Ako": 1,
+    "Conti": 2,
+    "Maze": 3,
+    "Pysa": 4,
+    "Shade": 5,
+    "180solutions": 6,
+    "CWS": 7,
+    "Gator": 8,
+    "TIBS": 9,
+    "Transponder": 10,
+    "Emotet": 11,
+    "Reconyc": 12,
+    "Refroso": 13,
+    "Scar": 14,
+    "Zeus": 15
+}
